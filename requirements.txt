@@ -1,0 +1,6 @@
+faiss-cpu
+pandas
+numpy
+sentence-transformers
+requests
+# transformers, torch are now only needed for MiniLM; fine to keep
