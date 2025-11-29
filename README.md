@@ -59,15 +59,7 @@ Sample Output:
 🚗 Best Car: Car T
 Reason: Highest avg_km + strong long-trip record + good maintenance efficiency.
 
-📌 Future Enhancements
 
-🔥 Replace rule-agent with TinyLlama planner
-
-🌐 Add API & Web UI Dashboard
-
-📊 Visual ranking chart UI
-
-🤝 Contributing
 
 Pull requests welcome.
 Star ⭐ the repo if this helped you!
